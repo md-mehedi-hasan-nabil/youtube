@@ -2,12 +2,3 @@ ytd-watch-flexy[flexy_] #secondary.ytd-watch-flexy{
 	overflow-y: scroll;
     	height: 100vh;
 }
-
-/* 
-
-const link=document.createElement('link');
-link.rel="stylesheet";
-link.href="https://mehedihasannabil.github.io/dbJson/youtube.css";
-document.getElementsByTagName('head')[0].appendChild(link);
-
- */
