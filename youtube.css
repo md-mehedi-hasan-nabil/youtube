@@ -10,3 +10,7 @@ ytd-watch-flexy[flexy_] #secondary.ytd-watch-flexy::-webkit-scrollbar {
 ytd-watch-flexy[flexy_] #secondary.ytd-watch-flexy::-webkit-scrollbar-thumb {
 	background-color: rgb(68, 68, 68);
 }
+
+ytd-item-section-renderer {
+	width: 160%;
+}
