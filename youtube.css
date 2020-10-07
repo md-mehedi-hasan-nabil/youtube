@@ -1,6 +1,6 @@
 ytd-watch-flexy[flexy_] #secondary.ytd-watch-flexy{
 	overflow-y: scroll;
-    	height: 100vh;
+    	height: 90vh;
 }
 
 ytd-watch-flexy[flexy_] #secondary.ytd-watch-flexy::-webkit-scrollbar {
