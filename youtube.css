@@ -11,6 +11,9 @@ ytd-watch-flexy[flexy_] #secondary.ytd-watch-flexy::-webkit-scrollbar-thumb {
 	background-color: rgb(68, 68, 68);
 }
 
-ytd-item-section-renderer {
-	width: 160%;
-}
+
+
+
+/*
+const link=document.createElement('link'); link.rel="stylesheet"; link.href="https://mehedihasannabil.github.io/youtube/youtube.css"; document.getElementsByTagName('head')[0].appendChild(link);
+*/
