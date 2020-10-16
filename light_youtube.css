@@ -1,0 +1,16 @@
+ytd-watch-flexy[flexy_] #secondary.ytd-watch-flexy{
+	overflow-y: scroll;
+    	height: 90vh;
+}
+
+ytd-watch-flexy[flexy_] #secondary.ytd-watch-flexy::-webkit-scrollbar {
+	background-color: rgb(203, 203, 203);
+}
+
+ytd-watch-flexy[flexy_] #secondary.ytd-watch-flexy::-webkit-scrollbar-thumb {
+	background-color: rgb(249, 249, 249);
+}
+
+div#dismissable:hover {
+	background-color: rgb(249, 249, 249);
+}
