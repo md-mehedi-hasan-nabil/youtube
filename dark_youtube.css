@@ -16,7 +16,8 @@ div#dismissable:hover {
 }
 
 div#dismissable {
-	border: 2px solid #fff;
+	border: 2px solid blue;
+	border-radius : 5px;
 }
 
 div#dismissable img {
