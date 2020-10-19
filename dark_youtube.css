@@ -14,3 +14,11 @@ ytd-watch-flexy[flexy_] #secondary.ytd-watch-flexy::-webkit-scrollbar-thumb {
 div#dismissable:hover {
 	background-color: rgb(68, 68, 68);
 }
+
+div#dismissable {
+	border: 2px solid #fff;
+}
+
+div#dismissable img {
+	border-radius : 5px;
+}
