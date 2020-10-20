@@ -14,3 +14,8 @@ ytd-watch-flexy[flexy_] #secondary.ytd-watch-flexy::-webkit-scrollbar-thumb {
 div#dismissable:hover {
 	background-color: rgb(203, 203, 203);
 }
+
+div#dismissable:hover {
+	transform: scale(1.04);
+	transition: 0.5s;
+}
