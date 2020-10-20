@@ -23,3 +23,8 @@ div#dismissable {
 div#dismissable img {
 	border-radius : 5px;
 }
+
+div#dismissable:hover {
+	transform: scale(1.04);
+	transition: 0.5s;
+}
