@@ -14,16 +14,11 @@ ytd-watch-flexy[flexy_] #secondary.ytd-watch-flexy::-webkit-scrollbar-thumb {
 div#dismissable {
 	border: 1px solid;
 	border-image: conic-gradient(red, yellow, lime, aqua, blue, magenta, red) 1;
-	border-radius : 5px;
-        padding: 12px;
-}
-
-div#dismissable img {
-	border-radius : 5px;
+        padding: 10px;
 }
 
 div#dismissable:hover {
-	transform: scale(1.02);
+	transform: scale(1.03);
 	transition: 0.5s;
 	background-color: rgb(68, 68, 68);
 }
