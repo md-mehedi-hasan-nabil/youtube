@@ -16,7 +16,8 @@ div#dismissable:hover {
 }
 
 div#dismissable {
-	border: 0.8px solid rgb(0, 0, 255, 0.7);
+/* 	border: 0.8px solid rgb(0, 0, 255, 0.7); */
+	border-image: conic-gradient(red, yellow, lime, aqua, blue, magenta, red) 1;
 	border-radius : 5px;
         padding: 15px;
 }
