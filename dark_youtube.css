@@ -12,7 +12,7 @@ ytd-watch-flexy[flexy_] #secondary.ytd-watch-flexy::-webkit-scrollbar-thumb {
 }
 
 div#dismissable {
-	border: 1.5px solid;
+	border: 1px solid;
 	border-image: conic-gradient(red, yellow, lime, aqua, blue, magenta, red) 1;
 	border-radius : 5px;
         padding: 12px;
